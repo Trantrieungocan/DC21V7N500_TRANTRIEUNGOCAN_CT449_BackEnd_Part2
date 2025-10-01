@@ -1,0 +1,24 @@
+{
+  "name": "backend_part2",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/Trantrieungocan/DC21V7N500_TRANTRIEUNGOCAN_CT449_BackEnd_Part2#readme",
+  "bugs": {
+    "url": "https://github.com/Trantrieungocan/DC21V7N500_TRANTRIEUNGOCAN_CT449_BackEnd_Part2/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Trantrieungocan/DC21V7N500_TRANTRIEUNGOCAN_CT449_BackEnd_Part2.git"
+  },
+  "license": "ISC",
+  "author": "Tran Trieu Ngoc An",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0"
+  }
+}
